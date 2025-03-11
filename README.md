@@ -1,7 +1,41 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Akobir, a Frontend Web Developer 👋🏼:
-🛜 currently working 👨 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# 👨‍💻 Frontend Developer | Media-Based Computer Science Student
+
+Hello! I'm a passionate frontend developer currently studying **Media-Based Computer Science** at **Tashkent University of Information Technologies (TUIT)**. I specialize in building dynamic and visually appealing user interfaces with a focus on clean, maintainable code. 🚀
+
+## 📚 Education
+
+- **Tashkent University of Information Technologies (TUIT)**
+  - Degree: **Bachelor's in Media-Based Computer Science**
+  - Expected Graduation: 202X
+  - Key areas: Web Development, User Interface (UI) Design, Media Technologies, Software Engineering
+
+## 🧑‍💻 Skills
+
+- **Languages**: HTML, CSS, JavaScript (ES6+)
+- **Frameworks & Libraries**: React.js, Vue.js, Bootstrap, Tailwind CSS
+- **Version Control**: Git, GitHub
+- **Other Tools**: Webpack, Figma, Adobe XD, VSCode
+
+## 🌐 Projects
+
+- [Project Name](link): Description of your project
+- [Project Name](link): Description of your project
+
+## 📫 Contact
+
+Feel free to reach out to me via:
+- Email: your-email@example.com
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-profile/)
+- GitHub: [@your-github](https://github.com/your-github)
+
+## 🌱 Currently Learning
+
+- **TypeScript**
+- **Next.js**
+- **UX/UI Design Principles**
+
 
 
 # 💻 Tech Stack:
