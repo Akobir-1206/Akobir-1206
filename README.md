@@ -13,7 +13,7 @@
 Feel free to reach out to me via:
 - Email: akobir120606@gmail.com
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-profile/)
-- GitHub: [@your-github](https://github.com/Akobir-1206)
+- GitHub: [@Akobir-1206](https://github.com/Akobir-1206)
 
 ## 🌱 Currently Learning
 
